@@ -1,6 +1,6 @@
 # Espeaker
 
-Espeaker is a way for your colleauges to talk to you using your computer's speech synthesizer.
+Espeaker is a way for your colleagues to talk to you using your computer's speech synthesizer.
 
 0. Run Espeaker,
 0. Give them your ip and the port number that espeaker listens to,
